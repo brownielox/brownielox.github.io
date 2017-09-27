@@ -2,13 +2,13 @@
 title: Evaluates to True
 header-img: img/home-bg.png
 email: srosenshine@gmail.com
-copyright_name: brownielox
+copyright_name: rosenshine
 description: > # this means to ignore newlines until "baseurl:"
   things I've learned while learning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: sarahrosenshine
-github_username:  brownielox
-learn_profile: brownielox
+github_username:  rosenshine
+learn_profile: rosenshine
 email_username: srosenshine@gmail.com
 
 # Build settings
